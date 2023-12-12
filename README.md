@@ -49,6 +49,6 @@ Combining this result with the best ensemble we got 0.615 on the public lb.
 
 ## Final ensemble
 
-Finally, another [result](https://www.kaggle.com/code/sgreiner/novo-esp-rasp-baseline) is added to the ensemble.
+Finally, another [result](notebooks/eda-novozymes-enzyme-stability-6d10b0.ipynb) is added to the ensemble.
 
 As we can see, the thermostability in both cases was significantly affected by Rosetta Scores throughout the molecule and the average of the hydrogen bond donor parameter in the vicinity of the mutation.
