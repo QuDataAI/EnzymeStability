@@ -1,9 +1,11 @@
 # Enzyme Stability
-
 ![image1](img/image1.png)
 
+## Introduction
+Enzymes are biological catalysts that speed up chemical reactions without being consumed or altered. They are widely used in various industries, such as food, pharmaceutical, textile, and biofuel, to improve the efficiency and quality of the products. However, enzymes are also sensitive to environmental factors, such as temperature, pH, and ionic strength, that can affect their structure and activity. Therefore, enzyme stability is an important factor in the industrial use of enzymes. In this report, we present the results of our team’s research on enzyme stability and immobilization.
+
 ## AVGP3
-At the beginning, we noticed that the https://www.kaggle.com/code/vslaykovsky/nesp-thermonet approach gives a high contribution to the prediction of thermal stability.
+At the beginning, we noticed that the approach described in the [notebook](https://www.kaggle.com/code/vslaykovsky/nesp-thermonet) gives a high contribution to the prediction of thermal stability.
 
 We studied the material from this article https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008291 and decided to experiment with different neural network architectures, and arrived at the Resnet-3D
 
