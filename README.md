@@ -28,7 +28,7 @@ Thanks to the [notebook](https://www.kaggle.com/code/oxzplvifi/deletion-specific
 
 By combining the two methods into an ensemble (0.5 rosetta + 0.5 AVGP3), we improved our model.
 
-Next, the AVGP3 result was combined with https://www.kaggle.com/code/oxzplvifi/deletion-specific-ensemble with weights 0.2 and 0.8 and further improved our model.
+Next, the AVGP3 result was combined with the [notebook](https://www.kaggle.com/code/oxzplvifi/deletion-specific-ensemble) with weights 0.2 and 0.8 and further improved our model.
 
 We then proceeded to examine what Rosetta Scores success consists of. After the relaxation procedure, the pdb files contain POSE_ENERGIES_TABLE at the bottom
 
